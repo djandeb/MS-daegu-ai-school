@@ -8,5 +8,5 @@ print(가격)
 부가세= 가격*부가세율
 print(부가세)
 
-
+#pandas 설치법 커맨드창에서 pip install pandas
  

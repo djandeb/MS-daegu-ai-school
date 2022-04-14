@@ -9,8 +9,8 @@ print(결과)
 #두개 같은코드임! '+은비+'하든가 앞에 f붙이든가
 
 name='은비'
-print('안녕하세요 '+name+'님 안녕히계세요 '+name+'님')
+print('안녕하세요 '+name+'님, 안녕히계세요 '+name+'님')
 
 name='은비'
-print(f'안녕하세요 {name}님 안녕히계세요 {name}님')
+print(f'안녕하세요 {name}님, 안녕히계세요 {name}님')
 
